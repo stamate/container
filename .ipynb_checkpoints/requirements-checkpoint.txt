@@ -1,7 +1,0 @@
-cdqa
-numpy
-scipy
-jupyterlab
-matplotlib
-seaborn
-tensorboardX
